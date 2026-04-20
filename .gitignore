@@ -1,0 +1,31 @@
+# virtual environment
+.venv/
+dl/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# dataset
+data/raw/
+data/processed/
+data/interim/
+data/splits/
+
+# models and logs
+models/
+results/logs/
+
+# optional large outputs
+*.h5
+*.keras
+*.ckpt
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
