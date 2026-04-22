@@ -1,0 +1,15 @@
+{
+    "model_name": "improved_cnn_pytorch",
+    "image_size": 160,
+    "batch_size": 64,
+    "epochs_requested": 45,
+    "epochs_completed": 45,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "num_classes": 50,
+    "best_val_accuracy": 0.9717314487632509,
+    "best_val_loss": 0.8724459950425332,
+    "test_loss": 0.8631541337985282,
+    "test_accuracy": 0.9770539152759948,
+    "device": "cuda"
+}

@@ -1,0 +1,11 @@
+{
+    "num_classes": 50,
+    "train_count": 49821,
+    "val_count": 6226,
+    "test_count": 6232,
+    "total_count": 62279,
+    "min_per_class": 1000,
+    "max_per_class": 1890,
+    "mean_per_class": 1245.58,
+    "std_per_class": 161.03923846855028
+}

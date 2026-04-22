@@ -1,0 +1,14 @@
+{
+    "model_name": "baseline_cnn_pytorch",
+    "image_size": 128,
+    "batch_size": 32,
+    "epochs_requested": 10,
+    "epochs_completed": 10,
+    "learning_rate": 0.001,
+    "num_classes": 50,
+    "best_val_accuracy": 0.6843880501124318,
+    "best_val_loss": 1.1051913995069589,
+    "test_loss": 1.0598999256882649,
+    "test_accuracy": 0.7012195121951219,
+    "device": "cuda"
+}
