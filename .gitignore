@@ -16,7 +16,7 @@ data/interim/
 data/splits/
 
 # models and logs
-models/
+# models/
 results/logs/
 
 # optional large outputs
