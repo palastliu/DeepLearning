@@ -1,0 +1,16 @@
+{
+    "dataset_name": "improved_cnn_v2_dataset",
+    "num_dataset1_classes": 50,
+    "num_dataset2_classes": 101,
+    "num_overlap_classes": 15,
+    "train_total_images": 50971,
+    "val_total_images": 6384,
+    "test_total_images": 6232,
+    "external_total_images": 346,
+    "dataset2_overlap_split_ratio": {
+        "train": 0.7,
+        "val": 0.1,
+        "external_test_dataset2_overlap": 0.2
+    },
+    "output_root": "I:\\DeepLearning\\ChineseHerb_Identify\\data\\processed\\improved_cnn_v2_dataset"
+}

@@ -1,0 +1,9 @@
+{
+    "num_dataset1_classes": 50,
+    "num_dataset2_classes": 101,
+    "num_overlap_classes": 15,
+    "num_external_images": 1654,
+    "improved_cnn_external_accuracy": 0.6033857315598549,
+    "transfer_resnet18_external_accuracy": 0.7853688029020556,
+    "device": "cuda"
+}
